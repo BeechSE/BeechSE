@@ -1,9 +1,7 @@
 ### Hi there, I'm Sarah 👋
 
 
-<!--
-**BeechSE/BeechSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<Having just graduated from HyperionDev Data Science course, I'm eagerly looking to use my freshly acquired skills in some real world problems and tasks!>
+Having just graduated from HyperionDev Data Science course, I'm eagerly looking to use my freshly acquired skills in some real world problems and tasks and champion women in tech roles!
 
 <a href="https://www.linkedin.com/in/sabeech">
 
@@ -13,7 +11,7 @@
 
  <source media="(prefers-color-scheme: dark)" srcset="Photo by ThisIsEngineering from Pexels: https://www.pexels.com/photo/code-projected-over-woman-3861969/">
  <source media="(prefers-color-scheme: light)" srcset="Photo by ThisIsEngineering from Pexels: https://www.pexels.com/photo/code-projected-over-woman-3861969/">
- <img alt="Picture of data science on a screen with woman's hand reaching out to it" src="Photo by ThisIsEngineering from Pexels: https://www.pexels.com/photo/code-projected-over-woman-3861969/">
+ <img alt="Picture of data science on a screen with woman's hand reaching out to it" src="C:\Users\sbeec\OneDrive\CODING\GIT\Data Science woman's hand.jpg">
 </picture>
 
 

@@ -8,10 +8,12 @@
 <a href="https://www.linkedin.com/in/sabeech">
 
 <picture>
+
 ![Women In Tech!] (https://www.pexels.com/photo/code-projected-over-woman-3861969/)
- <source media="(prefers-color-scheme: dark)" srcset="https://th.bing.com/th/id/OIP.O0LhiSUD9RRL9_Anb-hkkAHaEo?w=269&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7">
- <source media="(prefers-color-scheme: light)" srcset="https://th.bing.com/th/id/OIP.O0LhiSUD9RRL9_Anb-hkkAHaEo?w=269&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7">
- <img alt="Picture of data science on a screen with woman's hand reaching out to it" src="https://th.bing.com/th/id/OIP.O0LhiSUD9RRL9_Anb-hkkAHaEo?w=269&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7">
+
+ <source media="(prefers-color-scheme: dark)" srcset="Photo by ThisIsEngineering from Pexels: https://www.pexels.com/photo/code-projected-over-woman-3861969/">
+ <source media="(prefers-color-scheme: light)" srcset="Photo by ThisIsEngineering from Pexels: https://www.pexels.com/photo/code-projected-over-woman-3861969/">
+ <img alt="Picture of data science on a screen with woman's hand reaching out to it" src="Photo by ThisIsEngineering from Pexels: https://www.pexels.com/photo/code-projected-over-woman-3861969/">
 </picture>
 
 
